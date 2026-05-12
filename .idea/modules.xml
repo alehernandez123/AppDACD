@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/event-store-builder/event-store-builder.iml" filepath="$PROJECT_DIR$/event-store-builder/event-store-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/news-module/news-module.iml" filepath="$PROJECT_DIR$/news-module/news-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/stocks-module/stocks-module.iml" filepath="$PROJECT_DIR$/stocks-module/stocks-module.iml" />
     </modules>
